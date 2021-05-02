@@ -32,5 +32,16 @@ describe("Componente Principal", () => {
 
 			expect(novoSaldo).toBe(100);
 		});
+
+    it("deposito: aumentar o saldo", () => {
+			const valores = {
+				transacao: "deposito",
+				valor: 50,
+			};
+
+			const novoSaldo = calcularNovoSaldo(valores, 50);
+
+			expect(novoSaldo).toBe(100);
+		});
 	});
 });
