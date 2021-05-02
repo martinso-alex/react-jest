@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 1000
+    "saldo": 900
   },
   "transacoes": [
     {
@@ -14,6 +14,150 @@
       "valor": "20",
       "data": "26/09/2020",
       "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "02/05/2021",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": 0,
+      "data": "02/05/2021",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "02/05/2021",
+      "id": 5
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "02/05/2021",
+      "id": 6
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "02/05/2021",
+      "id": 7
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "02/05/2021",
+      "id": 8
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "02/05/2021",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 10
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 11
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 12
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 13
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 14
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 15
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 16
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 17
+    },
+    {
+      "transacao": "saque",
+      "valor": "0",
+      "data": "02/05/2021",
+      "id": 18
+    },
+    {
+      "transacao": "deposito",
+      "valor": "0",
+      "data": "02/05/2021",
+      "id": 19
+    },
+    {
+      "transacao": "deposito",
+      "valor": "0",
+      "data": "02/05/2021",
+      "id": 20
+    },
+    {
+      "transacao": "deposito",
+      "valor": "0",
+      "data": "02/05/2021",
+      "id": 21
+    },
+    {
+      "transacao": "deposito",
+      "valor": "",
+      "data": "02/05/2021",
+      "id": 22
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1000",
+      "data": "02/05/2021",
+      "id": 23
+    },
+    {
+      "transacao": "saque",
+      "valor": "1000",
+      "data": "02/05/2021",
+      "id": 24
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1000",
+      "data": "02/05/2021",
+      "id": 25
+    },
+    {
+      "transacao": "saque",
+      "valor": "100",
+      "data": "02/05/2021",
+      "id": 26
     }
   ]
 }
